@@ -5,6 +5,17 @@ Asesinatos por personajes en Game of Thrones
 
 
 
-#### [para ver esta tabla dinámicamente le recomido ingresar AQUI](https://public.tableau.com/app/profile/jefferson2736/viz/GameofThrones_16636790093990/Dashboard1)
+#### [Para ver esta tabla dinámicamente le recomido ingresar AQUI](https://public.tableau.com/app/profile/jefferson2736/viz/GameofThrones_16636790093990/Dashboard1)
 
-En la tabla que he preparado podemos ver diferentes casas, la cantidad de muertes acompañados con un top de personas con sus respectivas herramientas, 
+En la tabla que he preparado podemos ver diferentes casas, la cantidad de muertes acompañados con un top de personas con sus respectivas herramientas, al momento de hacer clic en cualquiera del top de personajes las demás caracterísitcas cambian, como es el número de aseisinatos y el arma favorita 
+![oW1vlWX](https://user-images.githubusercontent.com/105129458/199503235-4b4efca3-cae8-46cf-90fe-3ab50e886443.png)
+
+![7UcW7Nw-1](https://user-images.githubusercontent.com/105129458/199498251-a4eb1f8a-9bc3-44f2-bdfb-4bbaf3d6ce02.png)
+
+El dataset utulizado se se lo puede encontrar aquí en [data.word](https://data.world/makeovermonday/2019w27) 
+
+## conclusión 
+El forma favorita por parte de los productores de la serie de matar personajes es con los dragones, por lo que en la precuela de la serie, La Casa del dragón usarán la misma forma de matar debido a que atrae mucho a la audiencia.
+
+como se muestra en la imagen, existe una tendencia de muertes en el penúltimo capítulo de cada temporada y aún más en la temporada final.
+![ssqFOlF-1](https://user-images.githubusercontent.com/105129458/199514173-09af09cc-0ed1-4f83-85ec-c5db3c9c5cc3.png)
